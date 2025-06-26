@@ -12,7 +12,9 @@ body{
     background-color: #FFFFFF;
     padding: 10px;
     border-radius: 15px;
-    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    box-shadow: 4px 5px 11px -5px rgba(0,0,0,0.96);
+    -webkit-box-shadow: 4px 5px 11px -5px rgba(0,0,0,0.96);
+    -moz-box-shadow: 4px 5px 11px -5px rgba(0,0,0,0.96);
 }
 
 img{
