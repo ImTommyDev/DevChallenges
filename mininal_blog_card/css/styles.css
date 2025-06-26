@@ -50,5 +50,6 @@ hr {
 
 @font-face {
     font-family: 'Sora';
+    font-display: auto;
     src: url('../fonts/Sora-Regular.ttf');
 }
