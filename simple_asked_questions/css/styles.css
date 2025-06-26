@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    display: grid;
+    place-items: center;
+    width: 100dvw;
+    font-family: 'Inter-regular';
+    font-size: 16px;
+}
+main{
+    width: 610px;
+}
+/*Titulo*/
+#titulo{
+    text-align: center;
+    margin-bottom: 110px;
+}
+h1{
+    font-family: 'Inter-semibold';
+    font-size: 36px;
+    margin-bottom: 10px ;
+}
+#titulo > p{
+    margin: 0;
+}
+/*Enlaces*/
+a{
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+/*Encabezados*/
+h2{
+    font-family: 'Inter-semibold';
+    font-size: 24px;
+}
+
+/*Listas*/
+li{
+    margin-bottom: 8px ;
+}
+
+/*Sepración*/
+hr{
+    border-color: #F8FAFC;
+}
+
+@font-face {
+    font-family: 'Inter-regular';
+    src: url('../fonts/Inter_18pt-Regular.ttf');
+}
+@font-face {
+    font-family: 'Inter-semibold';
+    src: url('../fonts/Inter_18pt-SemiBold.ttf');
+}
